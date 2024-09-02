@@ -8,12 +8,12 @@ Implement different REST API Services to support a store products management sys
 - Delete
 
 
-* Objetivos **
+* Objetive **
 
 - [x]  Use the Richardson Maturity Model to implement a REST API Service.
 - [x]  Implement a REST API Service using Spring Boot.
 - [x]  Implement CRUD Operations.
 
 
-* Nombre *
+* Name *
 Jose Alejandro Correa Rodriguez
